@@ -2,7 +2,7 @@
 
 pkgname=xlibre-video-sisusb
 pkgver=25.0.0
-pkgrel=6
+pkgrel=7
 pkgdesc="XLibre fork of X.org SiS USB video driver"
 arch=(x86_64 aarch64)
 license=('BSD-3-Clause')
